@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shine-5705&label=Profile%20views&color=0e75b6&style=flat" alt="shine-5705" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, NLP, & DSA**
+- 🌱 I’m currently learning **Transformers, Large language Models(LLMs), & DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shine-5705](https://github.com/Shine-5705)
 
