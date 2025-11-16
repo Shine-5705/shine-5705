@@ -1,4 +1,3 @@
-![logo](https://github.com/Shine-5705/shine-5705/blob/main/githubbanner.png)
 <h1 align="center">Hi 👋, I'm SHINE GUPTA</h1>
 <h3 align="center">An aspiring Data Scientist from India</h3>
 
@@ -6,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shine-5705&label=Profile%20views&color=0e75b6&style=flat" alt="shine-5705" /> </p>
 
-- 🌱 I’m currently learning **Transformers, Large language Models(LLMs), & DSA**
+- 🌱 I'am building new things
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shine-5705](https://github.com/Shine-5705)
 
