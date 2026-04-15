@@ -113,7 +113,3 @@ I'm deeply into **Generative AI**, **AI Agents**, and **MLOps** — building pro
   <a href="https://twitter.com/shien_gupta17" target="blank"><img align="center" src="https://github.com/Shine-5705/shine-5705/blob/main/assets/1280px-X_logo_2023.svg.webp" alt="Twitter" height="40" width="40" /></a>
   <a href="https://www.youtube.com/@shinegupta0507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" /></a>
 </p>
-
----
-
-*Made with ❤️, ☕, and a bit of poetry* 🇮🇳
