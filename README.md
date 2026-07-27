@@ -41,7 +41,7 @@ I'm deeply into **Generative AI**, **AI Agents**, and **MLOps** — building pro
 ---
 
 ### Talking about Personal Stuffs:
-- 🏆 &nbsp; Won 8+ hackathons and counting goes on
+- 🏆 &nbsp; Won 9+ hackathons and counting goes on
 - 🛠 &nbsp; Currently building intelligent AI agents and production-grade ML systems
 - 🌱 &nbsp; Deep diving into **LLMs**, **RAG**, **Voice Agents**, and **MLOps**
 - ✍️ &nbsp; I write **poetry** in my free time — [Read my poems](https://www.poetry.com/poet/Shine+Gupta)
