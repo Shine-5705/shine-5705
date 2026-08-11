@@ -17,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" alt="YouTube" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/shien_gupta17">
+  <a href="https://twitter.com/shine_gupta17">
     <img src="https://github.com/Shine-5705/shine-5705/blob/main/assets/1280px-X_logo_2023.svg.webp" width="40" alt="Twitter" />
   </a>
   &nbsp;&nbsp;
